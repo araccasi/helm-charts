@@ -1,7 +1,0 @@
-helm install kubeturbo kubeturbo/deploy/kubeturbo \ 
---namespace turbo --create-namespace \ 
---set serverMeta.turboServer=8.11.1 \ 
---set serverMeta.version=8.11.1 \ 
---set image.tag=8.11.1 \ 
---set targetConfig.targetName=dcwidvmtur001.edc.nam.gm.com \
---set roleName=turbo-cluster-admin
