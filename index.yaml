@@ -3,6 +3,15 @@ entries:
   kubeturbo:
   - apiVersion: v1
     appVersion: "8.0"
+    created: "2024-03-18T02:08:27.05633391Z"
+    description: A Helm chart for Kubernetes
+    digest: bac1cae270a6a28c40fdfe7bdab2a0f46ecc007affd3ac9a08c14578b2d5b823
+    name: kubeturbo
+    urls:
+    - https://github.com/araccasi/helm-charts/releases/download/kubeturbo-1.0.1/kubeturbo-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: "8.0"
     created: "2024-03-18T01:07:07.581997803Z"
     description: A Helm chart for Kubernetes
     digest: 2a28f3c9ad1b94deaf9d95e371769edf494f279204237980fa7889aa2d40d43d
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://github.com/araccasi/helm-charts/releases/download/kubeturbo-1.0.0/kubeturbo-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-18T01:07:07.58200694Z"
+generated: "2024-03-18T02:08:27.056361481Z"
